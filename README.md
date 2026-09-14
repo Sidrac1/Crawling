@@ -9,3 +9,7 @@ git push
 git pull
 ~~~
 
+# Pendientes
+* Creación de personaje
+* Crear el mapa de la aplicacioń en V1 para terminal (Sidrac)
+* Sistema de batalla
